@@ -6869,6 +6869,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [RegEx Generator](https://regex.murfasa.com) - AI-driven, instant RegEx pattern creation tool.. [Free]
 - [FlutterFlow AI Gen](https://flutterflow.io) - Revolutionize app development with AI-driven, cross-platform tools.. [Freemium]
 - [WhatTheDiff](https://whatthediff.ai) - Streamlines code reviews, automates PR descriptions, enhances project management.. [Freemium]
+- [Manifest API Bot](https://manifest.build/api-bot/) - GitHub App that watches the third-party APIs your code calls and opens a pull request with an LLM-written fix when one of them changes. [Free]
 - [Spark Engine](https://www.sparkengine.ai) - Revolutionize AI creation: build, integrate, and analyze effortlessly.. [Free]
 - [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev) - AI-powered tool for instant, customizable web app creation.. [Free]
 - [Fix My Code](https://userway.org) - AI-driven tool for real-time code optimization and compliance.. [Free]
